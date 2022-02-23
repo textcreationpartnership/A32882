@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ in the clouds, or, God's coming to judgment A short treatise, very necessary in these evil and dangerous times, for all those which desire that the day of the Lord may be their day of joy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32882</idno>
+            <idno type="STC">Wing C3931AB</idno>
+            <idno type="STC">ESTC R215217</idno>
+            <idno type="EEBO-CITATION">99827165</idno>
+            <idno type="PROQUEST">99827165</idno>
+            <idno type="VID">31581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1905:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ in the clouds, or, God's coming to judgment A short treatise, very necessary in these evil and dangerous times, for all those which desire that the day of the Lord may be their day of joy.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Clark, W. Thackeray, and T. Passinger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1684-86]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Gathered in 8's.</note>
+                  <note>Imprint year from Wing.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1905 as Wing (2nd ed.) C3931A.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Attributes --  Early works to 1800.</term>
+               <term>Judgement of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31581:1"/>
+            <p>CHRIST IN THE CLOUDS, OR GOD's coming to Judgment.</p>
+            <p>A ſhort Treatiſe, very neceſſary in theſe evil and dangerous times, for all thoſe which deſire that the day of the LORD may be their day of Joy.</p>
+            <q>
+               <bibl>
+                  <hi>Mark 13. Ver. 35.36.</hi>
+               </bibl>
+               <p>Watch, for ye know not when the Maſter of the Houſe will come: Whether at Evening, or at mid-night, or at the Cock-crowing, or at the Dawning; leaſt he come ſuddenly and find you ſleeping.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Clark, W. Thackeray,</hi> and T. <hi>Paſſinger.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31581:2"/>
+            <pb facs="tcp:31581:2"/>
+            <head>Chriſt in the Clouds. <hi>OR, GOD's coming to Judgment.</hi>
+            </head>
+            <p>ATheiſme and Epicuriſme, are two Sins moſt hainous and deadly; the Atheiſt believes there is no God: him <hi>David</hi> confutes, <hi>Doubtleſs there is a God, that Judgeth the Earth.</hi> The Epicure believes there is no Judg<g ref="char:EOLhyphen"/>ment after Death: him <hi>Solomon</hi> doth ſeem to inſtruct, <hi>Remember that for all theſe things you muſt come to Judgment.</hi> There is no Chriſtian, I think, but believes that there ſhall be a day of Iudgment, <hi>Mat. 24.30. But when this day ſhall come, none knows: for of that day and hour no man knoweth, neither the Angels of Heaven, but my Father only.</hi> But although no mans reach is able to determine when that Day and Hour ſhall be, yet may plainly be demonſtrated and ſhown both from the Prophets and Apoſtles, that this Judg<g ref="char:EOLhyphen"/>ment day is near at hand, and will moſt ſudden<g ref="char:EOLhyphen"/>ly come upon us.</p>
+            <p>It is the mercy of the Holy Ghoſt to men in Holy Writ, to inſert theſe Caveats, &amp; to put
+<pb facs="tcp:31581:3"/>Man in mind of the Iudgment day, and that for three ſpecial cauſes;</p>
+            <p n="1">
+               <hi>1. That we may be terrified from ſin.</hi>
+            </p>
+            <p n="2">
+               <hi>2. That we might be admoniſhed to the true and ſincere worſhip of God.</hi>
+            </p>
+            <p n="3">
+               <hi>3. That we might be ſtrengthened in our Faith, leſt the great <hi>terrible day</hi> ſhould come upon us unawares, and ſo find us unprovided:</hi>
+            </p>
+            <p>Since the Foundation of the World, we know the time, when the Diſſolution of the World ſhall be, we are altogether ignorant: yet we may juſtly Propheſie and Preſage thus much, ſince Sin and Impiety is now come to that height, that it can by no ſuc<g ref="char:EOLhyphen"/>ceeding Ages be aggravated, and that Vertue and Godlineſs are ſo deſpiſed &amp; villifyed among impious men, that they can never hereafter be leſs eſteemed: whe cannot then perceive, or is ſo duſt ſighted, that is not able to apprehend and fore-ſée the Diſſolution to be at hand? Now is that Propheſie of <hi>Hoſea</hi> verifyed: <hi>There is no truth, nor mercy, nor knowledg of God in the Land; which appeareth by the Curſing, Lying, Murthers, Thefts, and A<g ref="char:EOLhyphen"/>dulterers, which now abound:</hi> So that now as the Prophet <hi>Micah</hi> hath it, <hi>The God<g ref="char:EOLhyphen"/>ly man is periſht from the Earth, and there is no juſt man among the Sons of men.</hi> Thus <hi>Hoſea, Micah,</hi> nay, all the Prophets do
+<pb facs="tcp:31581:3"/>agree in one, whereupon ſaith St. <hi>Ambroſe, When Righteous men periſh from off the Face of the Earth, the Earth muſt needs periſh alſo, becauſe the godly are the Pith and Mar<g ref="char:EOLhyphen"/>row of the Earth:</hi> For as the Trée without Pith and Moiſture ſoon dryeth up, ſo the pre<g ref="char:EOLhyphen"/>ſent World muſt néeds decay, when the Righ<g ref="char:EOLhyphen"/>teous that ſhould uphold it, are not to be found in it: For this cauſe, as <hi>Eſay</hi> hath it; <hi>In the Ci<g ref="char:EOLhyphen"/>ty is left Deſolation, <hi>and deſtruction is in the gates thereof, becauſe of their manifold iniquities.</hi>
+               </hi>
+            </p>
+            <p>Chriſt Ieſus himſelf ſaid, As in the Dayes before the Flood, they were eating, and drinking, and Marrying, and giving in Marriage, till the day of the Flood came, and took them away: So alſo ſhall the Co<g ref="char:EOLhyphen"/>ming of the Son of Man be, by reaſon of the Prophaneneſs, and too much Security. Suppoſe that this Propheſſe ſhall be fulfilled upon our preſent times, and that GOD will ſay to us as he did to <hi>Noah,</hi> I will deſtroy you with the World: O how unhappy and miſera<g ref="char:EOLhyphen"/>ble ſhall that Man be then, that hath not God for his Guide! But to the end we may the bet<g ref="char:EOLhyphen"/>ter diſcern that we are they, upon whom the ends of the World muſt come, there is no better a ſign amongſt thoſe whom Chriſt himſelf gave before them this, namely: <hi>For the Goſpel of the Kingdom ſhall be Preached in all the
+<pb facs="tcp:31581:4"/>World, for a Witneſs to all Nations, and then ſhall the end come:</hi> which is as much as to ſay, according to St. <hi>Chryſoſtom; To ac<g ref="char:EOLhyphen"/>cuſe and reprove thoſe that would not be<g ref="char:EOLhyphen"/>lieve the Goſpel.</hi> The ſame is that of <hi>Hi<g ref="char:EOLhyphen"/>lary: Then the Apoſtles being diſperſed, throughout all the World, and the Goſpel Preached, then ſhall the Fall of</hi> Ieruſalem <hi>be.</hi> Nevertheleſs, there are both Learned and un<g ref="char:EOLhyphen"/>learned of this opinion, that ſince the World, ſo long after theſe Propheſies, hath continued as before, that the end is not near, and that the World ſhall continue ſtill immutable. But let them perſevere in their opinions; for ſince S. <hi>Ambroſe, Cyprian, Chry<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſtom,</hi> and S. <hi>Gregory</hi> were of opinion, <hi>That ſince the Goſ<g ref="char:EOLhyphen"/>pel in their time was Preached to all Nations, long after their time the World could not in<g ref="char:EOLhyphen"/>dure.</hi> Surely then it is moſt probable, that this is the Age in which the end muſt come.</p>
+            <p>Now that we have ſome proof that the World cannot endure long, becauſe the Goſpel is ſaid to be preached to all Nations. Here St. <hi>Jerome,</hi> who was of opinion that there was in his time no Nation that was ignorant of the Goſpel of Chriſt: For he ſaith, <hi>Al<g ref="char:EOLhyphen"/>though they have no Preacher, yet they cannot but hear the Opinion of the
+<pb facs="tcp:31581:4"/>Faith of their Neighbouring Nations.</hi>
+            </p>
+            <p>This <hi>Proſper</hi> confirms: No part of the World is without the Goſpel of Chriſt, ſome of all ſorts, and of all Nations, have know<g ref="char:EOLhyphen"/>ledg of Chriſt. I could induce a Cloud of o<g ref="char:EOLhyphen"/>pinions, but let <hi>Ambroſe</hi> ſerve for them all: The Goſpel is Preached, the World may be deſtroyed. To conclude this point, ſince pro<g ref="char:EOLhyphen"/>bably by this great motive we are induced to believe that the end is at hand, and that the day and hour thereof is uncertain, it ſhall ſtir us up to a more holy courſe of life, leaſt that our De<g ref="char:EOLhyphen"/>ſolation and Confuſion overtake us unawares.</p>
+            <p>But to the end that we may the better under<g ref="char:EOLhyphen"/>ſtand and believe what hath béen before ſhewed, the Word of God is a moſt firm Argument to inform us of the truth of Chriſt's ſudden Coming, and that this preſent Age is the laſt Age of the World; For the ſpirit expreſly ſaith, <hi>1 <hi>Tim.</hi> 4. That in the later end ſome ſhall depart from the Faith, giving heed to ſe<g ref="char:EOLhyphen"/>ducing ſpirits, and Doctrine of Devils, ſpeak<g ref="char:EOLhyphen"/>ing Lyes in Hypocriſie, and having their Conſcience ſeared with a hot Iron, &amp;c.</hi> And again, know this alſo: <hi>that in the laſt dayes perilous times ſhall come; for men ſhall be Lovers of their own ſelves, Covetous Boaſt<g ref="char:EOLhyphen"/>ers, Proud Blaſphemers, diſobedient to Pa<g ref="char:EOLhyphen"/>rents, unthankful, unholy, without natural
+<pb facs="tcp:31581:5"/>affection, truth-breakers, falſe-accuſers, Innocent, deſpiſers of thoſe that are good; High-minded, Lovers of Pleaſure more than God: having the form of Godlineſs, but denying the power thereof.</hi> Thus far the Apoſtle; which-words St. <hi>Cyprian</hi> handling, ſaith, <hi>All things that were foretold are ful<g ref="char:EOLhyphen"/>filled, and the end of the world draweth near: the Propheſies are come to paſs, both in reſpect of the men and the minds; For now (if ever) is the perfection, or ra<g ref="char:EOLhyphen"/>ther imperfection of all the ſins the Apoſtle names to be the fore-runners of the end.</hi> Why doubt we then, that the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd is not at hand? Or why fear we not rather, that a ſud<g ref="char:EOLhyphen"/>den end will prevent our procraſtinated repen<g ref="char:EOLhyphen"/>tance? As bodies are ſick before death, and as Iufirmities and Sickneſs are the true fore<g ref="char:EOLhyphen"/>runners of a ſeparation between the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody and the Soul: even ſo fareth it with the World, it now languiſheth and is corrupt, it now lies ſick, and therefore it muſt needs come to Confuſion, and to an end. For deadly ſickneſs is a fore<g ref="char:EOLhyphen"/>runner of death; all things now ſuffer their defect, and let no man wonder at it; for man is now born in ſuch defect, in reſpect of the birth of man in former times: but what is want<g ref="char:EOLhyphen"/>ing in the preſent-condition of mans Body, is ſupplyed in the faculties of mind, and what is
+<pb facs="tcp:31581:5"/>defective in the ſtrength of his Members, is compleat in the ripeneſs of his underſtanding, which is for the moſt part imployed not in libe<g ref="char:EOLhyphen"/>ral, but in deviliſh Arts, not in the ſtudy of Learning, but in pleaſure. Only Wit and Maturity is reſident in Man, the only <hi>Idea,</hi> and repreſentment of the Image of God in Man. What can we otherwiſe but think that the Time is at hand, wherein Mortality ſhall put on Immortality, wherein the burthen of the fleſh being laid aſide the Glorious Body of the Church ſhall be coupled to her Glorious Head. The Communion of Saints ſhall be conſummate and Chriſt ſhall enjoy his Spouſe in continual Love and <g ref="char:V">Ʋ</g>nion. In the mean time with <hi>Paul, Unhappy men that we are, who ſhall deliver us from the Body of death, that we may paſs ſecure to the Body of Life.</hi>
+            </p>
+            <p>Then let every good Chriſtian in theſe Wicked times wherein deſtruction hangs over our heads, with good <hi>Hezekiah</hi> Pray, Lord, I am oppreſſed, do thou undertake for me: and ſince the day of deſtruction is ſo near us, we intreat thee, ſince it is expedient for us, that thou wouldeſt teach us, So to number our days, that we may apply our hearts to Wisdom. And ſince thou haſt pronounced that Servant happy, <hi>whom his Maſter when
+<pb facs="tcp:31581:6"/>he came, found Vigilant and Watchful<g ref="char:punc">▪</g>
+               </hi> Grant Lord, we beſeech thee, that ſince it is manifeſt, that long it cannot be before the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come, that we may be fitted and prepared fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy Coming; and may be found with Oyl i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Lamps, and ſo in Holineſs enter th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bride-Chamber with Ioy; And let us, good Lord, think the day moſt near, leaſt whileſt the Day of Death or Iudgment be thought to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>afar off, it prevent the improvement, and while long life is expected, it quickly forſake the Wicked and Guilty perſons.</p>
+            <p>Our minds are very deſtrous if we could, to know the Day of Death and Deſolation. But if we could attain to the knowledg thereof, what would it profit us? Suppoſe the Conſu<g ref="char:EOLhyphen"/>mation of this World to be after Ten, Twenty, or Forty, or an Hundred years, what is this material? Is not the Term of Life the Conſummation of each Man? Why then art thou ſo troubled about the laſt day of Iudgment? Since as thy end leaves thee, Iudgment ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll find thee: And how ſud<g ref="char:EOLhyphen"/>denly Death ſhall find thee, thou art altogether ignorant: For as in other things, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>regar<g ref="char:EOLhyphen"/>ding things pertaining to our Souls, we altoge<g ref="char:EOLhyphen"/>ther are buſted in things common; ſaying, this man is an Adulterer, this man a Thief, this man a falſe-hearted fellow, that man proud:
+<pb facs="tcp:31581:6"/>But no man hath a care far feeling his own ſins far worſe.</p>
+            <p>So doth every man neglect his own end, he would fain learn when the general day of Diſſolution ſhall be: Which Day, whether it be near or far off, it doth nothing concern us, ſo each man regard his ſeveral end, for ſince thou art Born, 'tis moſt certain thou muſt Dye; And it is certain, after Death cometh Iudgment, that may be far off, yet thy laſt day is at hand: Therefore prepare thee for this day; For if this day find ther unprovided, the day of Iudgment ſhall find thee ſo likewiſe, when thou ſhalt rue for it.</p>
+            <p>Conſider this, all ye that forget God, leaſt he tear you in pieces, and there be none to help: For our God ſhall go, and ſhall not keep ſilence; a Fire ſhall come before him, and it ſhall be very tempeſtuous round about him; For God himſelf is Iudge, and the day of Iudgment will quick<g ref="char:EOLhyphen"/>ly have an end, prevent the ſpeed thereof: It will ſpeedily come, prevent it I ſay, be thou ſpeedily converted. And as the Prophet <hi>David</hi> adviſeth us, Let us run before the face of the Iudge, with Confeſſion of Our Faults, and true Contrition of the ſame; And the reaſon why thou knoweſt not his coming is, that thou mayeſt alwaies be prepared for
+<pb facs="tcp:31581:7"/>it: For it is in thine own power, now thou maiſt expect his Comming: He there<g ref="char:EOLhyphen"/>fore deferrs his Comming, that when he comes, he may not daunt thée. Behold, he is not yet conte he is in Heaven, thou art on Earth. He deferrs his Comming, do not thou deferr this time of Repentance, leſt thou for ever, then too late Repent thee of his Com<g ref="char:EOLhyphen"/>ming, For in that day it will be too late to Repent; Therefore pray not that his King<g ref="char:EOLhyphen"/>dom come, which thou feareſt comming; but rather correct thy ſelf, that thou pray not againſt thy ſelf. So dayly he calls upon thee, that he may not that day contemn thee. He that ſhall then be thy Iudge, is now thy Advocate, and he now calls upon thee, that thou wouldſt lead a Godly Life.</p>
+            <p>Let us therefore ſet the day of Iudgment be<g ref="char:EOLhyphen"/>fore our Eyes, which way ſoever we go, let us carry the Memory of it with us, and it will bring this profit with it, that we ſhall not only meditate on the Horror and Deſtruction of that day, but alſo wiſh for the accompliſh<g ref="char:EOLhyphen"/>ment of the ſame, which makes the Wicked to tremble when they hear it approaches. Thus S. <hi>Chryſoſtom</hi> ſaith: Let us from among our ſelves repeat theſe things and with others: There ſhall be a Reſurrection, a day of Iudg<g ref="char:EOLhyphen"/>ment, and a Time of Examination of our
+<pb facs="tcp:31581:7"/>Works, whether good or bad. And this will cauſe the minds both of good and bad, be not converſant in the Vanities and Pleaſures of this World, and be not tempted to any Wic<g ref="char:EOLhyphen"/>kedneſs, but rather to undergo any Thing to be impoſed upon them here, than to incurr the intolerable puniſhments of everlaſting Fire hereafter.</p>
+            <p>This made <hi>David</hi> cry out: <hi>Eſtabliſh my Fleſh in thy fear, for I have been afraid to hear of thy Judgments.</hi> To conclude this Point, ſince we muſt all appear before the Iudgment-Seat of Chriſt, that every one may Receive the things done in his Body, according to that he hath done, whether it be good or bad; and knowing the Terror and Iuſtice of the Iudge of all Men, that ſhall Iudge the world in Righteouſneſs; and conſidering the puniſh<g ref="char:EOLhyphen"/>ment that then ſhall be impoſed on the Wicked, <hi>that ſhall be turned into Hell with them that forget God:</hi> Let us hear and follow St. <hi>Hil<g ref="char:EOLhyphen"/>laries</hi> Advice, in all the courſe of our Lives: the Memory of the Laſt and Great Iudgment, is to be planted and grafted in our hearts: For happy is the man that doth what he muſt do, in Remembrance of the Laſt day: And why? Hear the words of <hi>Jeſus</hi> the Son of <hi>Sirach, VVhatſoever thou takeſt in hand, remem<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:31581:8"/>thy end, and thou ſhalt never do amiſs.</hi>
+            </p>
+            <p>Thus much ſhall ſuffice, that there ſhall be a Day of Iudgment, and that that day is near. Now ſomewhat remaineth to be ſpo<g ref="char:EOLhyphen"/>ken of the manner of this day, and the Ter<g ref="char:EOLhyphen"/>rour thereof, that the Wicked being touched with the underſtanding of the ſame, might be driven nearer to God. <hi>In that Day, ſaith St. <hi>Paul,</hi> every mans Work ſhall be made ma<g ref="char:EOLhyphen"/>nifeſt, for the day ſhall declare it, becauſe it ſhall be revealed by the fire, and the fire ſhall try every mans Work, what ſort it is.</hi>
+            </p>
+            <p>The Time is now come when Iudgment ſhall begin at the houſe of GOD, and if it firſt begins with us, what ſhall the end be of them that Obey not the Goſpel of God? And if the Righteous ſcarcely be ſaved, where ſhall the Vngodly and Sinners appear? Where will they hide themſelves in that terrible Day, wherein there ſhall be nothing but wéeping and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>naſhing of Teeth, Howling. La<g ref="char:EOLhyphen"/>mentation and Repentance, too too late, when the Foundations of the Mountains ſhall be mo<g ref="char:EOLhyphen"/>ved, and the Land be burnt with Fire? When as St. <hi>Peter</hi> ſaith, <hi>the Heavens ſhall paſs away with a great noiſe, and the Firma<g ref="char:EOLhyphen"/>ment ſhall melt with fervent heat, the Earth alſo, and the Works that are therein, ſhall be burnt up.</hi> When as God himſelf ſaid
+<pb facs="tcp:31581:8"/>in the Goſpel, <hi>
+                  <hi>Mat.</hi> 24. The Sun ſhall be darkned, the Moon ſhall not give her Light, the Stars ſhall fall from Heaven, and the Po<g ref="char:EOLhyphen"/>wers thereof ſhall be ſhaken.</hi>
+            </p>
+            <p>Where will the Wicked then betake them<g ref="char:EOLhyphen"/>ſelves? Where will Adulterers, Drunkards, where will Curſers, and Swearers appear? Where will the Luxurious, Deceivers, Proud, Unclean and filthy Perſons be found? What (imhappy as they are) can they then plead for themſelves, to appeaſe the Anger of a Iuſt Iudge of Heaven and Earth? Surely nothing. Howl ye therefore, O ye wicked that forget GOD: For the day of the Lord is at hand, it ſhall come as a Deſtruction from the Al<g ref="char:EOLhyphen"/>mighty; <hi>For the Lord ſhall lay the Land as deſolate, and ſhall deſtroy the ſinners thereof out of it: He will puniſh the World for their Evil, and the Wicked for their iniquity; He will cauſe the Arrogancy of the Proud to ceaſe, and will lay low the Haughtineſs of the Ambitious Worldling.</hi> What fear, and what horror, what terrour and amazement ſhall there ſeize upon and poſſeſs thoſe that are marked out for eternal Deſtruction? In the name of God let us therefore while we have time, rouze our ſelves up while there is time; ſet us correct and amend our ſelves, that were never brought to theſe tortures of Body and
+<pb facs="tcp:31581:9"/>Soul: Let us rather preferr the ſimplicity of the Dove, and the chaſtity of the Turtle, the Spiritual feathers of Graces lift up your Souls up to Heaven by your Prayers, that ſo we may be always ready to reſign our Souls and Bodies into the hand of our Redeemer, with Ioy, and Alacrity of Spirit.</p>
+            <p>But that we may the better hear &amp; under<g ref="char:EOLhyphen"/>ſtand the terror of that day to avoid the ſame, we will hear the Prophets what they foretell: <hi>Gird your ſelves, and lament you Prieſts; howl ye Miniſters of the Altar: lye all night in ſackcloth, ye Miniſters of my God, for the meat-offering, and the drink-offering is with-holden from the Houſe of God. A<g ref="char:EOLhyphen"/>las, for the day of the Lord is at hand, and as deſtruction from the Almighty, ſhall it come. Blow a Trumpet in Zion, and ſound an Alarm in the holy Mountain, let all the Inhabitants of the Land tremble: For the day of the Lord cometh, for it is nigh at hand: A day of darkneſs and gloomineſs, a day of clouds and thick darkneſs: For great is the day of the Lord, and very terrible: ſure 'tis a great day wherein ſo great a God, greatly to be praiſed, &amp; to be above all gods, ſhall come to Judgment, &amp; to reward all men for their doings.</hi> 'Tis a great day, after which there ſhall be no change of clime, no courſe of dates
+<pb facs="tcp:31581:10"/>ſhall follow, which day in it ſelf ſhall contiue either everlaſting Condomnation, or Salvati<g ref="char:EOLhyphen"/>on without end.</p>
+            <p>It is a very terrible day, and the Prophet Malachi ſeems to give the reaſon of it; <hi>For behold the day cometh, that ſhall burn as an Oven, and all the Proud, and all that do wic<g ref="char:EOLhyphen"/>kedly, ſhall be as ſtu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble, and that day that cometh ſhall burn them up, ſaith the Lord of Hoſts:</hi> Leaving them neither Root nor Branch. And as the Prophet <hi>David</hi> hath it, <hi>Our God ſhall come and ſhall not keep ſi<g ref="char:EOLhyphen"/>lence, a Fire ſhall devour before him, and it ſhall be very tempeſtuous round about him; he ſhall call to the Heaven from above, and to the Earth below, that he may judge his People.</hi> For God is Judge himſelf; who there<g ref="char:EOLhyphen"/>fore will endure the fury of this day, where the Strong ſhall be thus weakned and oppreſſed, and where the Proud, and all that do wickedly, ſhall be burnt us as ſtubble: Whe wiſt not ſtand aſtoniſhed, where the Root with the Branch ſhall de pluck<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up and conſumed? what wicked man, what ſinner even dareth <hi>to appear where the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt ſhall ſcarce be ſaved, 1 Pet. 4.18. ver.</hi> But many men partly out of dull Stupidity, and partly being oppreſſed with croſſes and vocations of this Life, do little eſteem of the Tercour of this faſt day; very earneſtly to will
+<pb facs="tcp:31581:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:31581:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:31581:11"/>and deſire the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. But the Pronhet <hi>Amo. 5.18.</hi> doth threaten theſe men, ſaying, <hi>Woe unto you that deſire the Day of the Lord, to what and is it for you?</hi> The Day of the Lord is darkneſs, and nor ſight; as if a man did fly from a Lyon, and a Lear meet him, or went into the houſe and le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned his hand on the Wall, and a Serpent hite him. You do ſaith he, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pery evil to your ſelves, in that you do raſhly deſire the Day of the Lord, for ye ſhall not walk in the light of God's countenance, becauſe ye have not been Children of the light, but Children of darkneſs. There noyſome darkneſs ſhall come upon you, whatſoever you ſhall then aſſay, you ſhall not ſhun Terror, you cannot abide Horeor. And if you may ſhun the face of the Lyon of the Tribe of <hi>Ju<g ref="char:EOLhyphen"/>dab,</hi> that you render not account for your ſins, Yet that Bear the Devil, will run up<g ref="char:EOLhyphen"/>on you, me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t you and puniſh you for the ſame. Or if you eſcape this Bear and enter into the houſe of your conſcience to conſider the Evils you have committed, and the Good you have omitted, the tormenting worm will ſeize up<g ref="char:EOLhyphen"/>on your conſcience. The Worm that <hi>Eſaiah 66.</hi> ſpea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth of, <hi>The VVorm ſhall never dye:</hi> and the Evangeliſh <hi>Mark 9</hi> did teſtifie the ſame; The <hi>VVorm dyeth not, there, Fire never goeth ours, there, torments are end<g ref="char:EOLhyphen"/>leſs.</hi>
+               <pb facs="tcp:31581:11"/>Neither is there in that Day any Par<g ref="char:EOLhyphen"/>tiality to be uſed: For the Kings of the Earth, Gentlemen Rich men, the great and chief Captains the Mighty men, every Bond-man, and every Freeman, ſhall hide themſelves in the Dens, and in the Rocks of the Mountains, and ſhall ſay to the Rocks and Mountains fall upon us, and hide us from the Face of him that litteth upon the Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one, and from the wrath of the Lamb: for the great Day of wrath is come, and who ſhall be able to ſtand? But when the Son of man ſhall come in the Ma<g ref="char:EOLhyphen"/>jeſty of his Glory, and the Holy Angels with him, before whom all Nations ſhall be gather<g ref="char:EOLhyphen"/>ed: he ſhall then ſeperate them one from ano<g ref="char:EOLhyphen"/>ther, as the Shepherd divideth the Sheep from the Goats, and he ſhall ſet his ſheep on his Right hand, and the Goats on the Left-hand, and the Ring ſhall ſay to them on the Right<g ref="char:EOLhyphen"/>hand, <hi>Matt. 25. Come ye Bleſſed of my Fa<g ref="char:EOLhyphen"/>ther, inherit the Kingdome prepared for you from the beginning of the VVorld.</hi> But to them on the Left-hand, he ſhall ſay, <hi>Go ye Curſed into Everlaſting Fire, prepared for the Devil and his Angels: And theſe ſhall go into Everlaſting Puniſhment, but the Righteous into Life Eternal.</hi> To Conclude, this point, hear the Counſel of our Saviour Chriſt, <hi>Luke 31.24. Take heed, leaſt at
+<pb facs="tcp:31581:12"/>any time your Heart be over-charged with Surfeiting and Drunkenneſs, and cares of this Life, and ſo that Day come upon you unawares.</hi> For as a Snare it ſhall come on all them that dwell on the face of the whole Earth: Watch ye and Pray alwaies, that ye may be ac<g ref="char:EOLhyphen"/>counted worthy to eſcape all theſe things that ſhall come to paſs, and to ſtand before the Son of Man.</p>
+            <p>Since therefore all theſe things are fuddenly expected to be fulfilled, and all that read the Scriptures may hear this both from Prophets and Apoſtles, Nay, and Chriſt himſelf: <hi>That it is a terrible thing to fall into the Hands of the Living God.</hi> It is a wonder, that ſince all things (as the Apoſtle ſaith) ſhall be diſſolved, that now at length we become not pure, and walk in the Holy converſation and Godlineſs; looking for, and haſting unto the coming of the Day of God, wherein the Hea<g ref="char:EOLhyphen"/>vens being on Fire, <hi>ſhall be diſſolve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and the Element ſhall melt with Fervert heat, 2 Pet. 3.2.</hi> It is a Wonder that we do not deny all ungodlineſs, and worldly deſires, and Luſts of the ueſh, the Glory of the world, the deceitfulneſs of Riches, and the choaking cares of all Earthly things, and exerciſe our ſelves in all Sobriety and Goodneſs, looking for the Bleſſed hope, and the Glorious appearance of
+<pb facs="tcp:31581:12"/>that great God and our Saviour Ieſus Chriſt.</p>
+            <p>It ought therefore, to be our firſt and chief rate, in theſe dangerous and wicked Times, not being drown'd in the Imploiments of this World, to have a care of our Salvation, and to make ſure the Anchor of our hope and Faith: <hi>That our Souls ſuffer not Eternal. Ship<g ref="char:EOLhyphen"/>wrack, 2 Timm. 3 5.</hi> Let us no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>perſwade our ſelves that the Lord is not near, let us not ſay with them that <hi>Peter</hi> reprehended, <hi>where is the promiſe of his coming?</hi> For ſince the Fathers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell aſleep, all things continue as they were ſince the Creation; For how long thoſe things ſhall continue? the Lord of Hoſts by the Propher <hi>Hagga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> doth declare, <hi>Yet once, it is a little while; and I will ſhake the Hea<g ref="char:EOLhyphen"/>vens and the Earth, the Sea and the dry Land.</hi> Now the Apoſtle <hi>Peter</hi> gives the rea<g ref="char:EOLhyphen"/>ſon why he is not yet come, <hi>Pet. 1.9. 'Tis his long-ſuffering</hi> (ſaith he) <hi>to us ward, not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that any ſhould periſh, but that all ſhould come to Repentance:</hi> Wherefore ac<g ref="char:EOLhyphen"/>count that the long-ſuffering of the Lord is Salvation, and the diligent that you may be found of him in fear, without Spot, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs: We muſt be diligent and watchful: The <hi>Gre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians</hi> are gone aſide, we have a <hi>Simon</hi> in us that will yield the place to them: We muſt continually watch, and have alwaies an
+<pb facs="tcp:31581:13"/>Eye to the watch, holding our Weapons <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our hands, unleſs we be min<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d at all time to be ſurpriſed, and yeild at the pleaſure of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Enemy. For, <hi>The Day of the Lord com<g ref="char:EOLhyphen"/>eth as a thief in the Night, in which th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heavens ſhall paſs away with a great noiſe and the Element ſhall melt with, fervent heat. Therefore be ye ready, for in ſuch an hour as you think not, the Son of ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cometh. Now they that defer the coming of the Lord, and ſay with that Evil ſer<g ref="char:EOLhyphen"/>vant, my Lord delayeth his coming, let us Eat and Drink and be Drunken:</hi> Tell them, the Lord will come in a day when they look not for him, and in an hour when they are not aware, and will cut them aſunder, and will give them their portion with the Vn<g ref="char:EOLhyphen"/>believers and Hypocrites, <hi>where there ſhall be weeping and waiting and gnaſhing of teeth, Luke 12.47.</hi>
+            </p>
+            <p>Now they that know theſe things and pre<g ref="char:EOLhyphen"/>pare not themſelves, neither do according to the will of God, ſhall be beaten with many ſtripes, as the Apoſtle St. <hi>Luke</hi> hath in his Goſpel pro<g ref="char:EOLhyphen"/>nounced.</p>
+            <p>Let us endeavour therefore, that when the laſt day cometh, we may ſay with St. <hi>Paul, Tim. 4.7. I have fought a good fight, I have finiſhed my courſe, I have kept the
+<pb facs="tcp:31581:13"/>Faith; Hence-forth there is laid up for me a Crown of Righteouſneſs, which the Lord that Righteous Iudge ſhall give me that day;</hi> But is this Crown laid up for thee alone? (O <hi>Paul)</hi> not only for me (ſaith he) but alſo for them that love the Lord Ieſus, and expect his appearance.</p>
+            <p>O that this would take ſome impreſſion in the heardeſt of hearts, that do ſing a tempo<g ref="char:EOLhyphen"/>ral <hi>Requiem</hi> here unto their Souls, leaſt while they think the Day of the Lord is fartheſt from them, it on the ſuddain come unto them, and ſo they be found in a condition too late to be a<g ref="char:EOLhyphen"/>mended, and by no means whatſoever to be a<g ref="char:EOLhyphen"/>voided.</p>
+            <p>To conclude all, gird up the Loyns of your minds, be ſober, and hope to the end: For the Glory that is to be brought to you, at the Re<g ref="char:EOLhyphen"/>velation of Ieſus Chriſt as obedient Children, not walking after your former Iuſts of Igno<g ref="char:EOLhyphen"/>rance; Let your Loyns I ſay be girded, and your lights burning, and you your ſelves like unto them that wait for the Lord when he will return from the wedding, that when he co<g ref="char:EOLhyphen"/>meth and knocketh, you may open immediate<g ref="char:EOLhyphen"/>ly. <hi>Luke 12.36. Bleſſed is the Servant whom his Maſter when he cometh finds ſo doing;</hi> Of a truth I ſay unto you, he will make him Ruler over all he hath. <hi>Take ye
+<pb facs="tcp:31581:14"/>heed. Watch and Pray, for ye know <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> when the time is?</hi> For the Son of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Man taking a far journey, who left his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and gave Authority to his Servant, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> every man his work, commanding them wait. <hi>Watch ye therefore, for ye know, when the time is, for ye know not when maſter cometh? at Even, at midnight, of the Cock crowing, leaſt coming ſuddenly, finde you ſleeping,</hi> and ſo caſt you into <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there to remain world without end.</p>
+            <p>
+               <hi>From which the Lord Jeſus keep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all, and that for his Mercies <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alone. To whom be rendred<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Honour, Glory, Praiſe, and Tha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> giving, now and for ever. AMEN.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
